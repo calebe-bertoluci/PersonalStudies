@@ -1,5 +1,10 @@
 [Portuguese]
 
+O objetivo deste resumo é publicar os conhecimentos que adquiro à medida que leio o livro Código Limpo, de "Uncle Bob". Mesmo que ainda tenha um longo caminho à percorrer no mundo da tecnologia, acredito que posso evoluir meus conhecimentos técnicos em desenvolvimento de software com excelência e solidez.
+
+"Nós só podemos ver um pouco do futuro, mas o suficiente para perceber que há muito a fazer." - Alan Turing
+
+
 Código Limpo - Habilidades Práticas do Agile Software
 Robert C. Martin
 
